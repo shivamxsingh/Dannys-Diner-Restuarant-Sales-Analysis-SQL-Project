@@ -1,1 +1,1 @@
-# Danny-s-Diner-Restuarant-Sales-Analysis---SQL-Project
+# Danny's-Diner-Restuarant-Sales-Analysis-SQL-Project
